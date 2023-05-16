@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Nicole and this summer I am interning at Microsoft! 
 <!--
 **nicolerom/nicolerom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,0 +1,1 @@
+As instructed by the training exercise, I have created a new directory which will contain files with information about me and this repo.

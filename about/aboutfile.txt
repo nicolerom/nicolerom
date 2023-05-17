@@ -1,1 +1,10 @@
-As instructed by the training exercise, I have created a new directory which will contain files with information about me and this repo.
+As instructed by the training exercise, 
+I have created a new directory which will contain files 
+with information about me and this repo.
+
+This is general information about me:
+Name: Nicole Romero Ospina
+Age: 21
+Education: Senior at Duke University
+Major: Computer Science
+Occupation: Summer '23 Intern at Microsoft STL
